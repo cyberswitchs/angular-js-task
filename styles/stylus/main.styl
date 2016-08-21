@@ -1,0 +1,87 @@
+box-shadow(args...)
+	-webkit-box-shadow args
+	-moz-box-shadow args
+	box-shadow args
+
+user-select(args...)
+	-webkit-user-select args
+	-moz-user-select args
+	-ms-user-select args
+	user-select args
+
+body
+	max-width 1280px
+	width 100%
+	margin 0 auto
+	font-family 'Calibri'
+	user-select none
+
+.shop
+	height 100vh
+	display flex
+	box-sizing border-box
+	padding 0 20px 25px 15px
+	justify-content space-between
+	align-items flex-end
+
+.items-list
+	padding 0
+	margin 0
+	list-style-type none
+	width 25%
+	height 82vh
+	box-sizing border-box
+	padding 10px
+	text-transform uppercase
+	font-weight bold
+	overflow-y auto
+	box-shadow 0 0 2px 5px #d6d6d6
+	li
+		border-bottom 1px solid black
+		.dropdown
+			display flex
+			flex-flow column nowrap
+			button
+				cursor pointer
+				background transparent
+				outline none
+				border none
+				color #49D03F
+				font: bold 0.875em 'Calibri'
+				text-transform uppercase
+				width 40%
+				align-self flex-end
+	p
+		color #707070
+		font-size: 0.875em
+	.price
+		font-size 1.125em
+		color black
+
+.model-and-price
+	display flex
+	justify-content space-between
+
+.item-full-info
+	width 73%
+	height 82vh	
+	article
+		height inherit
+		box-shadow 0 0 2px 5px #d6d6d6
+	p
+		text-transform uppercase
+		margin-top 75px
+
+.item-details
+	display flex
+	table 
+		border-collapse collapse
+		margin-top 25px
+		tr
+			height 31px
+	tbody td			
+		border 1px solid grey
+		font-size 0.875em
+		&:first-child
+			border-left none
+			font-weight bold

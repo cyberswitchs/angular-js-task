@@ -1,0 +1,47 @@
+<article data-ng-show="shop.hasCurrentItem()">
+	<div class="item-details">
+		<img ng-src="{{item['Full info']['Image']}}" alt="{{item['Main info']['Model name']}}"/>
+		<table>
+			<thead>
+				<tr>
+					<th><h2>{{item['Main info']['Model name']}} specifications</h2></th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Class</td>
+					<td>{{item['Full info']['Class']}}</td>
+				</tr>
+				<tr>
+					<td>Release date</td>
+					<td>{{item['Full info']['Release date']}}</td>
+				</tr>
+				<tr>
+					<td>Standart</td>
+					<td>{{item['Full info']['Standart']}}</td>
+				</tr>
+				<tr>
+					<td>Battery</td>
+					<td>{{item['Full info']['Battery']}}</td>
+				</tr>
+				<tr>
+					<td>Work uptime</td>
+					<td>{{item['Full info']['Work uptime']}}</td>
+				</tr>
+				<tr>
+					<td>Screen</td>
+					<td>{{item['Full info']['Screen']}}</td>
+				</tr>
+				<tr>
+					<td>Weight</td>
+					<td>{{item['Full info']['Weight']}}</td>
+				</tr>
+				<tr>
+					<td>Sizing</td>
+					<td>{{item['Full info']['Sizing']}}</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>{{item['Full info']['Additional info']}}</p>
+</article>

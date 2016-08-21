@@ -1,0 +1,115 @@
+[{
+	"Main info": {
+		"Model name": "Nokia 3110",
+		"Price": "1920",
+		"Short info": "Description of an product",
+		"Dropdown info": "Dropdown info about an product"
+	}, 
+	"Full info": {
+		"Image": "styles/img/nokia-3110.png",
+		"Class": "Middle",
+		"Release date": "02-01-2007",
+		"Standart": "GSM 900/1800/1900",
+		"Battery": "BL-SC Li-Ion 1020mAh",
+		"Work uptime": "180h",
+		"Screen": "128x160, 262144",
+		"Weight": "87g",
+		"Sizing": "108.5x45.7x15.6mm",
+		"Additional info": "Some interesting info about product"
+	}
+}, {
+	"Main info": {
+		"Model name": "Samsung Galaxy J5",
+		"Price": "666",
+		"Short info": "Description of an product",
+		"Dropdown info": "Dropdown info about an product"
+	}, 
+	"Full info": {
+		"Image": "styles/img/samsung-galaxy-j5.jpg",
+		"Class": "High",
+		"Release date": "02-01-2999",
+		"Standart": "GSM 900/1800/1900",
+		"Battery": "BL-SC Li-Ion 1020mAh",
+		"Work uptime": "180h",
+		"Screen": "128x160, 262144",
+		"Weight": "87g",
+		"Sizing": "108.5x45.7x15.6mm",
+		"Additional info": "Some interesting info about product"
+	}
+}, {
+	"Main info": {
+		"Model name": "Ericsson 3110",
+		"Price": "100500",
+		"Short info": "Description of an product",
+		"Dropdown info": "Dropdown info about an product"
+	}, 
+	"Full info": {
+		"Image": "styles/img/nokia-3110.png",
+		"Class": "Budget",
+		"Release date": "02-01-2002",
+		"Standart": "GSM 900/1800/1900",
+		"Battery": "BL-SC Li-Ion 1020mAh",
+		"Work uptime": "180h",
+		"Screen": "128x160, 262144",
+		"Weight": "87g",
+		"Sizing": "108.5x45.7x15.6mm",
+		"Additional info": "Some interesting info about product"
+	}
+}, {
+	"Main info": {
+		"Model name": "LG 3110",
+		"Price": "1920",
+		"Short info": "Description of an product",
+		"Dropdown info": "Dropdown info about an product"
+	}, 
+	"Full info": {
+		"Image": "styles/img/nokia-3110.png",
+		"Class": "Middle",
+		"Release date": "02-01-2007",
+		"Standart": "GSM 900/1800/1900",
+		"Battery": "BL-SC Li-Ion 1020mAh",
+		"Work uptime": "180h",
+		"Screen": "128x160, 262144",
+		"Weight": "87g",
+		"Sizing": "108.5x45.7x15.6mm",
+		"Additional info": "Some interesting info about product"
+	}
+}, {
+	"Main info": {
+		"Model name": "Lenovo 3110",
+		"Price": "1920",
+		"Short info": "Description of an product",
+		"Dropdown info": "Dropdown info about an product"
+	}, 
+	"Full info": {
+		"Image": "styles/img/nokia-3110.png",
+		"Class": "Middle",
+		"Release date": "02-01-2007",
+		"Standart": "GSM 900/1800/1900",
+		"Battery": "BL-SC Li-Ion 1020mAh",
+		"Work uptime": "180h",
+		"Screen": "128x160, 262144",
+		"Weight": "87g",
+		"Sizing": "108.5x45.7x15.6mm",
+		"Additional info": "Some interesting info about product"
+	}
+}, {
+	"Main info": {
+		"Model name": "Siemens 3110",
+		"Price": "1920",
+		"Short info": "Description of an product",
+		"Dropdown info": "Dropdown info about an product"
+	}, 
+	"Full info": {
+		"Image": "styles/img/nokia-3110.png",
+		"Class": "Middle",
+		"Release date": "02-01-2007",
+		"Standart": "GSM 900/1800/1900",
+		"Battery": "BL-SC Li-Ion 1020mAh",
+		"Work uptime": "180h",
+		"Screen": "128x160, 262144",
+		"Weight": "87g",
+		"Sizing": "108.5x45.7x15.6mm",
+		"Additional info": "Some interesting info about product"
+	}
+}]
